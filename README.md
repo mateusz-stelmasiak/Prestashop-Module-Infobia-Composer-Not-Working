@@ -4,7 +4,7 @@ As of 11/18/2023 the infobia API and what follows - the infobia-product-composer
 
 ## STEPS
 1. Download the 'infobia_product_composer.php' file.
-2. Place it in '_path_to_your_shop_/modules/infobia_product_composer'.
+2. Place it in '_path_to_your_shop_/modules/infobia_product_composer' to overwrite 'infobia_product_composer.php'.
 3. DONE.
 
 # FR
