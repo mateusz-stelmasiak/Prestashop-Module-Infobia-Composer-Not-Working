@@ -1,6 +1,6 @@
 # Prestashop-Module-Infobia-Product-Composer-Not-Working
 # EN
-As of 11/18/2023 the infobia API and what follows - infobia-product-composer not longer work. Here i provide a way to bypass any need for communication with infobia API, so that the module can run in its absence.
+As of 11/18/2023 the infobia API and what follows - the infobia-product-composer module not longer work. Here i provide a way to bypass any need for communication with infobia API, so that the module can run in its absence.
 
 ## STEPS
 1. Download the 'infobia_product_composer.php' file.
